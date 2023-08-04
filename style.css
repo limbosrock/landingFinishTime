@@ -322,6 +322,11 @@ blockquote p {
   overflow: visible;
 }
 
+.espacio-letra{
+  letter-spacing: 5px;
+
+}
+
 .logo {
   display: block;
   float: left;
@@ -1104,8 +1109,8 @@ blockquote p {
 }
 
 .info-counter-text {
-  opacity: .7;
-  font-size: 0.8em;
+  color: #fff;
+  font-size: 1.2em;
 }
 
 /* *********************************************************
@@ -1428,7 +1433,7 @@ footer p, footer a {
 }
 
 .social-set>a>img{
-  width: 8%;
+  height: 80px;
   padding: 1em;
 }
 
